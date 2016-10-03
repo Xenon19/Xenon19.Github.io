@@ -1599,7 +1599,6 @@
 			}
 
 	#header-wrapper {
-		background: url("../../images/banner.jpg") center center;
 		background-size: cover;
 	}
 
@@ -1711,7 +1710,7 @@
 
 	#logo p {
 		color: #eee;
-		color: rgba(255, 255, 255, 0.5);
+		color: rgba(255, 255, 255, 1);
 		text-transform: uppercase;
 	}
 
@@ -2428,7 +2427,7 @@
 				display: block;
 				height: 44px;
 				left: 0;
-				position: fixed;
+				position: fiFd;
 				top: 0;
 				width: 100%;
 				z-index: 10001;
